@@ -1,4 +1,6 @@
-﻿namespace DesignPatterns.Template
+﻿using System;
+
+namespace DesignPatterns.Template
 {
     public class TextFile : DataProcessor
     {
